@@ -64,6 +64,8 @@ $route['admin/mbti'] = 'admin/mbti';
 $route['admin/otr'] = 'admin/otr';
 $route['admin/dm'] = 'admin/dm';
 $route['admin/vc'] = 'admin/vc';
+$route['admin/orientation'] = 'admin/orientation';
+$route['admin/interviewer'] = 'admin/interviewer';
 $route['admin/sudo'] = 'admin/sudo';
 
 $route['counselor/dashboard'] = 'counselor/dashboard';

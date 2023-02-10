@@ -12,18 +12,22 @@
 - [Live](<https://psytestdev.000webhostapp.com/> "Live View")
 
 ## Screenshot
-- Homepage
-![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file1.png)
-![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file2.png)
-![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file3.png)
+- Admin Page
+![ADMIN1](https://github.com/fadzniaidil/image/blob/main/psytest/file1.png)
+![ADMIN2](https://github.com/fadzniaidil/image/blob/main/psytest/file9.png)
+![ADMIN3](https://github.com/fadzniaidil/image/blob/main/psytest/file10.png)
+
+- Counselor Page
 ![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file4.png)
 ![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file5.png)
 ![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file6.png)
 ![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file7.png)
 ![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file8.png)
 ![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file9.png)
-![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file10.png)
-![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file11.png)
+![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file2.png)
+![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file3.png)
+
+
 
 
 ## Built With

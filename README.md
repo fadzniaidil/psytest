@@ -1,7 +1,7 @@
-# psytest UPSI
+# PSYTEST UPSI
 
-<img src="https://github.com/fadzniaidil/imawa/blob/main/malwr/static/image/imawass.png">
-<h1 align="center">Imawa</h1>
+
+<h1 align="center">PsyTest</h1>
 
 <p align="center">This project focused on counselling session for counselor and client. Build mainly in Php language with Codeigniter 3 Framework.</p>
 
@@ -13,16 +13,18 @@
 
 ## Screenshot
 - Homepage
-![Home Page](/screenshot/home.png "Homepage")
+![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file1.png)
+![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file2.png)
+![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file3.png)
+![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file4.png)
+![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file5.png)
+![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file6.png)
+![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file7.png)
+![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file8.png)
+![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file9.png)
+![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file10.png)
+![Home Page](https://github.com/fadzniaidil/image/blob/main/psytest/file11.png)
 
-- Result
-![Result](/screenshot/result.png "Result")
-
-- Library
-![Library](/screenshot/library.png "Library")
-
-- About
-![About](/screenshot/about.png "About")
 
 ## Built With
 

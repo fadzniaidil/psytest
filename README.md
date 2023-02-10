@@ -30,9 +30,97 @@
 ![CLIENT3](https://github.com/fadzniaidil/image/blob/main/psytest/file5.png)
 ![CLIENT4](https://github.com/fadzniaidil/image/blob/main/psytest/file6.png)
 
+### Testing (Username & Password )
+Password : pass123
+<table style="width:100%">
+  <tr>
+    <th>Username</th>
+    <th>Roles</th>
 
+  </tr>
 
-
+  <tr>
+    <td>d0001</td>
+    <td>Client</td>
+  </tr>
+  <tr>
+    <td>d0002</td>
+    <td>Client</td>
+  </tr>
+  <tr>
+    <td>d0003</td>
+    <td>Client</td>
+  </tr>
+  <tr>
+    <td>d0004</td>
+    <td>Client</td>
+  </tr>
+  <tr>
+    <td>d0005</td>
+    <td>Client</td>
+  </tr>
+  <tr>
+    <td>d0006</td>
+    <td>Client</td>
+  </tr>
+  <tr>
+    <td>d0007</td>
+    <td>Client</td>
+  </tr>
+  <tr>
+    <td>d0008</td>
+    <td>Client</td>
+  </tr>
+  <tr>
+    <td>d0009</td>
+    <td>Client</td>
+  </tr>
+  <tr>
+    <td>d0010</td>
+    <td>Client</td>
+  </tr>
+  <tr>
+    <td>k0001</td>
+    <td>Client</td>
+  </tr>
+  <tr>
+    <td>k0002</td>
+    <td>Counselor</td>
+  </tr>
+  <tr>
+    <td>k0003</td>
+    <td>Counselor</td>
+  </tr>
+  <tr>
+    <td>k0004</td>
+    <td>Admin</td>
+  </tr>
+  <tr>
+    <td>k0005</td>
+    <td>Counselor</td>
+  </tr>
+  <tr>
+    <td>k0006</td>
+    <td>Counselor</td>
+  </tr>
+  <tr>
+    <td>k0007</td>
+    <td>Counselor</td>
+  </tr>
+  <tr>
+    <td>k0008</td>
+    <td>Client</td>
+  </tr>
+  <tr>
+    <td>k0009</td>
+    <td>Client</td>
+  </tr>
+   <tr>
+    <td>k0010</td>
+    <td>Client</td>
+  </tr>
+  
+</table>
 
 ## Built With
 

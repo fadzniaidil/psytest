@@ -13,22 +13,22 @@
 
 ## Screenshot
 - Admin Page
-![ADMIN1](https://github.com/fadzniaidil/fadzniaidil/blob/main/fadzniaidil/project_image/file1.png)
-![ADMIN2](https://github.com/fadzniaidil/fadzniaidil/blob/main/fadzniaidil/project_image/file10.png)
-![ADMIN3](https://github.com/fadzniaidil/fadzniaidil/blob/main/fadzniaidil/project_image/file11.png)
-![ADMIN4](https://github.com/fadzniaidil/fadzniaidil/blob/main/fadzniaidil/project_image/file12.png)
-![ADMIN5](https://github.com/fadzniaidil/fadzniaidil/blob/main/fadzniaidil/project_image/file13.png)
+![ADMIN1](https://github.com/fadzniaidil/fadzniaidil/blob/main/project_image/psytest/file1.png)
+![ADMIN2](https://github.com/fadzniaidil/fadzniaidil/blob/main/project_image/psytest/file10.png)
+![ADMIN3](https://github.com/fadzniaidil/fadzniaidil/blob/main/project_image/psytest/file11.png)
+![ADMIN4](https://github.com/fadzniaidil/fadzniaidil/blob/main/project_image/psytest/file12.png)
+![ADMIN5](https://github.com/fadzniaidil/fadzniaidil/blob/main/project_image/psytest/file13.png)
 
 - Counselor Page
-![COUNSELOR1](https://github.com/fadzniaidil/fadzniaidil/blob/main/fadzniaidil/project_image/file7.png)
-![COUNSELOR2](https://github.com/fadzniaidil/fadzniaidil/blob/main/fadzniaidil/project_image/file8.png)
-![COUNSELOR3](https://github.com/fadzniaidil/fadzniaidil/blob/main/fadzniaidil/project_image/file9.png)
+![COUNSELOR1](https://github.com/fadzniaidil/fadzniaidil/blob/main/project_image/psytest/file7.png)
+![COUNSELOR2](https://github.com/fadzniaidil/fadzniaidil/blob/main/project_image/psytest/file8.png)
+![COUNSELOR3](https://github.com/fadzniaidil/fadzniaidil/blob/main/project_image/psytest/file9.png)
 
 - Client Page
-![CLIENT1](https://github.com/fadzniaidil/fadzniaidil/blob/main/fadzniaidil/project_image/file3.png)
-![CLIENT2](https://github.com/fadzniaidil/fadzniaidil/blob/main/fadzniaidil/project_image/file4.png)
-![CLIENT3](https://github.com/fadzniaidil/fadzniaidil/blob/main/fadzniaidil/project_image/file5.png)
-![CLIENT4](https://github.com/fadzniaidil/fadzniaidil/blob/main/fadzniaidil/project_image/file6.png)
+![CLIENT1](https://github.com/fadzniaidil/fadzniaidil/blob/main/project_image/psytest/file3.png)
+![CLIENT2](https://github.com/fadzniaidil/fadzniaidil/blob/main/project_image/psytest/file4.png)
+![CLIENT3](https://github.com/fadzniaidil/fadzniaidil/blob/main/project_image/psytest/file5.png)
+![CLIENT4](https://github.com/fadzniaidil/fadzniaidil/blob/main/project_image/psytest/file6.png)
 
 ### Testing (Username & Password )
 Password : pass123
